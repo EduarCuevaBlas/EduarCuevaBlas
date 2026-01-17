@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Eduar Cueva Blas
 
-<!--
-**EduarCuevaBlas/EduarCuevaBlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudiante de Ingeniería Mecatrónica  apasionado por CAD, LaTeX y sistemas de control.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- **Diseño CAD:** SolidWorks, Inventor, AutoCAD, Fusion 360
+- **Documentación técnica:** Informes técnicos, artículos, y documentación teórica en LaTeX
+- **Programación:** Python, ,MATLAB
+- **Control / Robótica**: controlador PID, control de par por conpensación dinámica, Control Adaptativo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+- **📁 Artículo LaTeX** – Diseño e implementación de un brazo robótico cosechador de uva de 6GDL.
+  🔗 https://github.com/tuusuario/proyecto-cad1
+- **📁 Informe** – Diseño de Máquina autopropulsada para fumigación inteligente de arándanos.
+  🔗 https://github.com/tuusuario/informe-latex
+- **📁 Artículo LaTeX** – Diseño y Simulación de un Sistema de Refrigeranción por aire para una CPU de estación de trabajo.
+  🔗 https://github.com/tuusuario/informe-latex
+- **📁 Informe LaTeX** – Modelado asistido por computadora de una Estación de un Brazo Robótico Industrial ABB IRB 1600
+  🔗 https://github.com/tuusuario/informe-latex
+- **📁 Site** – Diseño de tablero eléctrico industrial con LOGO! de Siemens.
+  🔗 https://github.com/tuusuario/informe-latex
+
+
